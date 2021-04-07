@@ -34,7 +34,7 @@ SECRET_KEY = '=1vo^-5q*d(ha#_k%z*=y%@pm7kgec)tqi1p56h3x1z3hxx2xt'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-env.eba-nursfj6q.ap-south-1.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['65.2.40.125', 'ec2-65-2-40-125.ap-south-1.compute.amazonaws.com']
 
 
 
